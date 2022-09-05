@@ -3,7 +3,7 @@ public class App {
         Student Student = new Student();
 
         Student.firstName = "Ristian";
-        Student.middlename = 'T';
+        Student.middleInitial = 'T';
         Student.surname = "Mabanta";
         Student.dateOfBirth = "11/16/1979";
         Student.studentNumber = 2022102602;
